@@ -1,7 +1,7 @@
 #en phyton no uso int float, uso, edad, altura=; no declaras el tipo
 #lo deduce el valor, no hay; una misma variable puede cambiar de tipo x=5 x="hola"
 #para saber el tipo de un dato print(type(variable))
-#Imput siempre devuelve texto,edad = int(input("Edad: "))print(edad + 1)
+#Imput siempre devuelve texto,edad = int(input("Edad: "))print(edad + 1)ddd
 
 
 
